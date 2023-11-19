@@ -1,4 +1,4 @@
-public class Solution {
+public class ReverseStarTriangle {
     public static void nStarTriangle(int n) {
         // Write your code here
         for (int i=n; i>0; i--) {
