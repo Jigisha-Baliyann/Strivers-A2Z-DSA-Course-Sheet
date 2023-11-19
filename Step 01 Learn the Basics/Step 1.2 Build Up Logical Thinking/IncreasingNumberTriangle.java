@@ -1,4 +1,4 @@
-public class Solution {
+public class IncreasingNumberTriangle {
     public static void nNumberTriangle(int n) {
         // Write your code here
         int num=1;
