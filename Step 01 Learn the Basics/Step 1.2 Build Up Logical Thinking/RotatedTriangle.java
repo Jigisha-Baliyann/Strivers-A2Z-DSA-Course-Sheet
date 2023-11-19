@@ -1,4 +1,4 @@
-public class Solution {
+public class RotatedTriangle {
     public static void nStarTriangle(int n) {
         // Write your code here
         for (int i=1; i<=n; i++) {
