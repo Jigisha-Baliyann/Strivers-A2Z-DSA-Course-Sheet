@@ -1,4 +1,4 @@
-public class Solution {
+public class StarTriangle {
     public static void nStarTriangle(int n) {
         // Write your code here
         for (int i=0; i<n; i++) {
