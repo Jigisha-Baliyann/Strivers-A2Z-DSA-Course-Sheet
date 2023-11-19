@@ -12,9 +12,11 @@ public class Solution {
 
 /*
 
-Output for n=3 will be:
+Output for n=5 will be:
 1 
 1 2 
 1 2 3 
+1 2 3 4 
+1 2 3 4 5 
 
 */
