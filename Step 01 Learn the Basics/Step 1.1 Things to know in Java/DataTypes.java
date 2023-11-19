@@ -1,4 +1,4 @@
-public class Solution {
+public class DataTypes {
     public static int dataTypes(String type) {
         // Write your code here
         int answer = 0;
