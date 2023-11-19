@@ -1,5 +1,5 @@
 import java.util.*;
-public class Solution {
+public class UserInputOutput {
     public static void main(String[] args) {
         // Write your code here
         Scanner sc = new Scanner(System.in);
