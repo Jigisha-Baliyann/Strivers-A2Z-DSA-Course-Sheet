@@ -9,3 +9,12 @@ public class Solution {
         }
     }
 }
+
+/*
+
+Output for n=3 will be:
+* * * 
+* * * 
+* * * 
+
+*/
