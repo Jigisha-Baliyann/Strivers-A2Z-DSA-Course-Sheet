@@ -1,4 +1,4 @@
-public class Solution {
+public class AlphaRamp {
     public static void alphaRamp(int n) {
         // Write your code here
         char ch='A';
