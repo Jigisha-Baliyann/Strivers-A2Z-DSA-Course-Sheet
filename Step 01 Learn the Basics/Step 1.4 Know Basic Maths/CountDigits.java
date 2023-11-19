@@ -1,4 +1,4 @@
-public class Solution {
+public class CountDigits {
     public static int countDigits(int n){
         // Write your code here.
         int count=0, copy=n;
