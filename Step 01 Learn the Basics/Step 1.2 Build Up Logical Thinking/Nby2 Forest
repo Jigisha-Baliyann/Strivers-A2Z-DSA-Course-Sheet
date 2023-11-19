@@ -9,3 +9,13 @@ public class Solution {
         }
     }
 }
+
+/*
+
+Output for n=4 will be:
+* 
+* * 
+* * * 
+* * * * 
+
+*/
