@@ -9,3 +9,14 @@ void nLetterTriangle(int n) {
             System.out.println();
         }
 }
+
+/*
+
+Output for n=5 will be:
+A B C D E 
+A B C D 
+A B C 
+A B 
+A 
+
+*/
