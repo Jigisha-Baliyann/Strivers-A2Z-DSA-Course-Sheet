@@ -1,4 +1,4 @@
-public class Solution {
+public class IfElseStatements {
     public static String compareIfElse(int a, int b) {
         // Write your code here
         String answer="";
