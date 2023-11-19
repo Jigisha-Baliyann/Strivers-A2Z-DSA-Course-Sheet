@@ -1,5 +1,5 @@
 import java.util.*;
-public class Solution {
+public class ForLoops {
 	public static void main(String[] args) {
 		/* Your class should be named Solution.
 	 	* Read input as specified in the question.
