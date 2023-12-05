@@ -39,3 +39,19 @@ class Solution {
 		}
     }
 }
+
+/*
+
+I/P -> 1032
+O/P -> false
+
+I/P -> 121
+O/P -> true
+
+I/P -> -121
+O/P -> false
+
+I/P -> 10
+O/P -> false
+
+*/
